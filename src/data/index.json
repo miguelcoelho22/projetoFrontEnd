@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Back-End",
+      "description": "Desenvolvimento da lógica de servidor e APIs RESTful para aplicações web. Tenho experiência prática em Java e no ecossistema Spring Boot para construir sistemas eficientes e escaláveis."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "SQL (Bancos de Dados Relacionais)",
+      "description": "Conhecimento em bancos de dados relacionais (SQL). Experiência em modelagem de dados, otimização de queries e integração de bancos de dados (como PostgreSQL ou MySQL) com aplicações backend."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.svg",
+      "title": "Docker",
+      "description": "Criação e gerenciamento de contêineres para padronizar os ambientes de desenvolvimento, teste e produção. Isso garante que a aplicação funcione de forma idêntica em qualquer lugar, facilitando o deploy."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.svg",
+      "title": "Git",
+      "description": "Controle de versão de código usando Git. Habilidade em gerenciamento de branches (incluindo metodologias como Gitflow), pull requests e colaboração em equipe, mantendo um histórico de alterações limpo e organizado."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "pix-clean-architeture",
+      "description": "Backend para um sistema de transferências PIX, focado na aplicação prática de Arquitetura Limpa, princípios SOLID e conceitos do Domain-Driven Design (DDD).",
+      "link": "Ver no Github",
+      "url" : "https://github.com/miguelcoelho22/pix-clean-architeture"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "email-service",
+      "description": "Um microsserviço centralizado para envio de emails, utilizando AWS SES (Simple Email Service) como provedor e abstraindo sua complexidade do resto da aplicação.",
+      "link": "Ver no Github",
+      "url" : "https://github.com/miguelcoelho22/java/tree/main/email-service"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Crud-Basico",
+      "description": "Este projeto é um exemplo de como construir um CRUD (Create, Read, Update, Delete) com Spring Boot da maneira correta. ",
+      "link": "Ver no Github",
+      "url": "https://github.com/miguelcoelho22/CrudBasicoGedai"
+    }
+  ]
+}
